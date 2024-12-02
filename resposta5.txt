@@ -1,0 +1,1 @@
+Minha abordagem inicial seria definir as tarefas com minha dupla usando um gerenciador como Trello ou GitHub Issues. Escolheríamos ferramentas adequadas ao projeto (e.g., frameworks front-end/back-end). Usaríamos Git para versionamento, garantindo commits frequentes e revisões para manter a qualidade e facilitar o trabalho em equipe.

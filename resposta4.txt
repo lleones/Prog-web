@@ -1,0 +1,1 @@
+JavaScript é crucial para a web moderna porque adiciona dinamismo e interatividade. Ele permite a criação de experiências ricas, como atualizações em tempo real e interfaces responsivas, tornando os sites mais envolventes.

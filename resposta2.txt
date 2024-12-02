@@ -1,0 +1,3 @@
+HTML/CSS: Estruturam e estilizam as páginas web, criando interfaces atraentes.
+JavaScript: Gera interatividade em tempo real, como animações e validações.
+Frameworks (React, Angular): Facilitam a criação de interfaces dinâmicas e escaláveis.
